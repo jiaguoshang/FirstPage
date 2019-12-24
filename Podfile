@@ -6,6 +6,14 @@ target 'F1' do
   use_frameworks!
   pod 'Masonry'
   pod 'SDAutoLayout'
+#  pod 'SnapKit'
+#  pod 'Alamofire', '~> 4.8'
+#  pod 'AlamofireImage', '~> 3.5'
+#  pod 'Kingfisher', '~> 5.5.0'
+#  pod 'HandyJSON', '~> 5.0.0'
+#  pod 'GDPerformanceView-Swift', '~> 2.0.2'
+  pod 'MJRefresh'
+  
   # Pods for F1
 
 end
